@@ -1,0 +1,6 @@
+﻿  main.cpp
+  stock.cpp
+H:\stock quantization - beta\stock.cpp(11,20): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  user.cpp
+H:\stock quantization - beta\user.cpp(33,20): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
